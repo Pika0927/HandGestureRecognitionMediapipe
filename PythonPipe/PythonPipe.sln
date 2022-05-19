@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythonPipe", "PythonPipe\PythonPipe.csproj", "{BCDB1C62-3194-4FBD-A832-B1524D69D295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDB1C62-3194-4FBD-A832-B1524D69D295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDB1C62-3194-4FBD-A832-B1524D69D295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDB1C62-3194-4FBD-A832-B1524D69D295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDB1C62-3194-4FBD-A832-B1524D69D295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC480C27-DD17-4309-8F33-D13753EDCEC8}
+	EndGlobalSection
+EndGlobal

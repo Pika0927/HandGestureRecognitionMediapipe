@@ -1,0 +1,8 @@
+C:\Projects\SelfProject\ContiKeys\PythonPipe\PythonPipe\bin\Debug\PythonPipe.exe.config
+C:\Projects\SelfProject\ContiKeys\PythonPipe\PythonPipe\bin\Debug\PythonPipe.exe
+C:\Projects\SelfProject\ContiKeys\PythonPipe\PythonPipe\bin\Debug\PythonPipe.pdb
+C:\Projects\SelfProject\ContiKeys\PythonPipe\PythonPipe\obj\Debug\PythonPipe.csproj.AssemblyReference.cache
+C:\Projects\SelfProject\ContiKeys\PythonPipe\PythonPipe\obj\Debug\PythonPipe.csproj.SuggestedBindingRedirects.cache
+C:\Projects\SelfProject\ContiKeys\PythonPipe\PythonPipe\obj\Debug\PythonPipe.csproj.CoreCompileInputs.cache
+C:\Projects\SelfProject\ContiKeys\PythonPipe\PythonPipe\obj\Debug\PythonPipe.exe
+C:\Projects\SelfProject\ContiKeys\PythonPipe\PythonPipe\obj\Debug\PythonPipe.pdb
